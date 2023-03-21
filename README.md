@@ -39,6 +39,8 @@ Here are some ideas to get you started:
     <img align="center" alt="C-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
+<br>
+
 ## 📫 Contact
 For any project or job offer, do not hesitate to contact me through these social networks:
 <div style="display: inline_block;">
