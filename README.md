@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 💬 About me
 
->Brunthaban B - 18 years old
+>Brunthaban B - 20 years old
 
 >Status : Computer Science & Data student at the IUT of Paris 
 
